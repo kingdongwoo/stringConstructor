@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <cstring> 
 #include <iostream>
-using namespace std;
+using namespace std ;
 
 
 	void MyString::print()
